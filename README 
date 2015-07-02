@@ -1,0 +1,19 @@
+// CmpE 321 Introduction to Database Systems
+// Spring 2014
+// Project 2
+// Implementation of the simple storage management system.
+// Student Name: Evin Pinar Ornek
+// Student ID: 2012400057
+
+READ ME!!!
+
+How to use the application?
+
+- Put the executable file to the same directory with the system catalogue and the data files.
+
+- Set the name of the system catalogue file to "syscat.dat" . 
+
+- The operations are explained in the application. 
+
+- There are no error checking process, so please use the program in a very careful manner!!
+
